@@ -5,7 +5,7 @@ export const contentArr = [
     tag1: "Food",
     postTitle: "Food come in several flavors",
     postTime: "1 hour ago",
-    author: "Vijay",
+    author: "William",
     subDesc:
       "Food blogs come in several flavors. On the one hand, there’s the food critics, who go from one restaurant table to the next, tasting different dishes and narrating their experiences. On the other hand, there’s the cooking and baking enthusiasts. They document their recipes—from the ingredients they use to the steps they follow—and share them with their communities through articles, photos and videos.      These types of blogs come with much competition. Therefore, many foodies have chosen a specific blog niche to stand out—such as Wild Plant Food, which specializes in 100% vegan recipes. Know that the work also comes with great perks. Critics often get to dine for free at restaurants. If you’re more on the cooking side, you may meet opportunities to publish cookbooks and collaborate with food networks. Despite the competition food blogging is a great way to build a food loving online community of like minded people.",
     singlePostDesc1:
@@ -19,13 +19,12 @@ export const contentArr = [
     tag1: "Travel",
     postTitle: "I love to travel globally.",
     postTime: "2 hour ago",
-    author: "Aksshit",
+    author: "Thomas",
     subDesc:
-    "The most common New Year's resolution is to exercise more and lose weight. Yet, less than 5% of adults participate in 30 minutes of physical activity each day. What about giving your readers an extra push of motivation? Blogging is a great way to share your insight on at-home workouts and eating best practices while going direct to your consumer.    ",
+    "Travel takes us out of our comfort zones and inspires us to see, taste and try new things. It constantly challenges us, not only to adapt to and explore new surroundings, but also to engage with different people, to embrace adventures as they come and to share new and meaningful experiences with friends and loved ones. Whether you seek adrenaline and non-stop activity, or unapologetic siestas and ultimate relaxation, travel gives us the opportunity to explore with an open heart and an open mind.",
     singlePostDesc1:
-    "The most common New Year's resolution is to exercise more and lose weight. Yet, less than 5% of adults participate in 30 minutes of physical activity each day. What about giving your readers an extra push of motivation? Blogging is a great way to share your insight on at-home workouts and eating best practices while going direct to your consumer.    ",
-    singlePostDesc2:
-    "Dave Grohl said, 'No one is you, and that is your power.' It’s true that almost all corners of the world have been written about, but they have not been written about by you. People will experience your destinations through your eyes.",
+    "Travel takes us out of our comfort zones and inspires us to see, taste and try new things. It constantly challenges us, not only to adapt to and explore new surroundings, but also to engage with different people, to embrace adventures as they come and to share new and meaningful experiences with friends and loved ones. Whether you seek adrenaline and non-stop activity, or unapologetic siestas and ultimate relaxation, travel gives us the opportunity to explore with an open heart and an open mind.",
+    singlePostDesc2:"",
   },
   {
     img: "https://www.uhhospitals.org/-/media/Images/Blog/Girl-Healthy-Lifestyle-Illustration-1363368428-Blog-MainArticleImage.jpg?h=450&w=720&la=en&hash=2B1A5829A100549E39A3F7E08463DC88EBB304F0",
@@ -33,7 +32,7 @@ export const contentArr = [
     tag1: "Health and fitness",
     postTitle: "It's essential for a fulfilling life",
     postTime: "3 hour ago",
-    author: "Aksshit",
+    author: "Bhoomi",
     subDesc:
     "Health and fitness play a crucial role in leading a fulfilling and balanced life. Maintaining good health encompasses physical, mental, and emotional well-being. Regular exercise, a nutritious diet, and proper stress management are fundamental components of a healthy lifestyle. Exercise not only helps improve physical strength and endurance but also contributes to better mental health by releasing endorphins and reducing stress. A balanced diet rich in nutrients supports the body's overall well-being, providing the energy and nourishment necessary for daily activities. Mental and emotional well-being are equally important, as they influence one's ability to handle life's challenges and maintain a positive outlook.    ",
     singlePostDesc1:
@@ -47,7 +46,7 @@ export const contentArr = [
     tag1: "Lifestyle",
     postTitle: "lifestyle promotes well-being",
     postTime: "4 hour ago",
-    author: "Aksshit",
+    author: "Sangita",
     subDesc:
     "Lifestyle is a term that encompasses the way individuals live, their daily routines, habits, and choices that define their existence. It is a multifaceted concept that extends to various aspects of life, including one's behavior, values, preferences, and social interactions. A person's lifestyle is a reflection of their identity and can significantly impact their physical and mental well-being. One of the core components of lifestyle is personal behavior and choices. These choices can range from dietary preferences and exercise habits to recreational activities and spending patterns. For instance, someone who prioritizes a healthy lifestyle may opt for nutritious foods, engage in regular physical activity, and avoid harmful substances. On the other hand, a person with a more sedentary lifestyle might lean towards processed foods and limited exercise, which can lead to health issues over time. Lifestyle choices also extend to factors such as sleep patterns, stress management, and recreational activities, all of which influence overall well-being.",
     singlePostDesc1:
@@ -61,7 +60,7 @@ export const contentArr = [
     tag1: "Fashion and beauty",
     postTitle: "Fashion enhances beauty",
     postTime: "5 hour ago",
-    author: "Aksshit",
+    author: "Daniel",
     subDesc:
     "Fashion and beauty encompass a wide range of topics, trends, and industries that are centered around personal appearance and style. These two areas are closely related but represent distinct aspects of self-expression and self-care. Fashion refers to the clothing and accessories people wear to express their personal style, cultural identity, and individuality. It encompasses the ever-evolving world of clothing, shoes, jewelry, and accessories. Fashion trends can change rapidly, with designers, brands, and cultural influences shaping what is considered stylish at any given time. The fashion industry includes everything from haute couture runways to everyday street fashion, and it often reflects broader social, cultural, and economic trends.",
     singlePostDesc1:
@@ -73,9 +72,9 @@ export const contentArr = [
     img: "https://www.adorama.com/alc/wp-content/uploads/2021/04/photography-camera-learning-feature.jpg",
     id: 6,
     tag1: "Photography",
-    postTitle: "Fashion enhances beauty",
+    postTitle: "Capture moments, freeze time.",
     postTime: "5 hour ago",
-    author: "Aksshit",
+    author: "AKshit",
     subDesc:
     "Photography is the art of capturing and creating images through the use of a camera. It is a creative medium that allows individuals to express themselves, document moments, tell stories, and convey emotions. Photography has been a popular and influential art form for over a century, and it continues to evolve with advancements in technology and changing artistic trends.",
     singlePostDesc1:

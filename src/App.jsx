@@ -20,9 +20,9 @@ function App() {
           <Homepage />
         </Route>
         <Route path="/register">
-          {currentUser ? <Homepage /> : <Register />}
+          {currentUser ? <Register /> : <Register />}
         </Route>
-        <Route path="/login">{currentUser ? <Homepage /> : <Login />}</Route>
+        <Route path="/login">{currentUser ? <Login /> : <Login />}</Route>
         <Route path="/post/:id">
           <Single />
         </Route>
